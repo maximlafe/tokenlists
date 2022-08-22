@@ -4,10 +4,10 @@
   "keywords": [],
   "version": {
     "major": 1,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
-  "timestamp": "2022-07-05T19:27:00+00:00",
+  "timestamp": "2022-08-22T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 329847901,
@@ -19,11 +19,11 @@
     },
     {
       "chainId": 329847901,
-      "address": "png-token-v1.testnet",
+      "address": "png-token-v4.testnet",
       "decimals": 18,
       "name": "Pangolin Near",
       "symbol": "PNR",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/329847901/png-token-v1.testnet/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/329847901/png-token-v4.testnet/logo.png"
     },
     {
       "chainId": 329847901,
@@ -32,6 +32,30 @@
       "name": "Fake Circle USD",
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/329847901/usdc.fakes.testnet/logo.png"
+    },
+    {
+      "chainId": 329847901,
+      "address": "usdn.testnet",
+      "decimals": 18,
+      "name": "USDN",
+      "symbol": "USDN",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/329847901/usdn.testnet/logo.png"
+    },
+    {
+      "chainId": 329847901,
+      "address": "usdt.fakes.testnet",
+      "decimals": 6,
+      "name": "USDT",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/329847901/usdt.fakes.testnet/logo.png"
+    },
+    {
+      "chainId": 329847901,
+      "address": "dai.fakes.testnet",
+      "decimals": 18,
+      "name": "DAI",
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/329847901/dai.fakes.testnet/logo.png"
     }
   ]
 }
